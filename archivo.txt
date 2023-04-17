@@ -1,1 +1,2 @@
+Agregando nuevo texto para probar la resolución de conflictos
 Prueba para un pull
